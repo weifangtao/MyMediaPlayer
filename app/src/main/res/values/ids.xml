@@ -2,4 +2,5 @@
 <resources>
     <item name="splash_image" type="id"/>
     <item name="settings" type="id"/>
+    <item name="fragment_container" type="id"/>
 </resources>

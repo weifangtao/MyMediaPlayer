@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@mipmap/ic_bottom_home_icon"
+            id="@+id/tab_home"
+            title="@string/home"/>
+        <tab
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@mipmap/ic_bottom_mv_unselect"
+            id="@+id/tab_mv"
+            title="@string/mv"/>
+        <tab
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@mipmap/ic_bottom_vlist_unselect"
+            id="@+id/tab_vbang"
+            title="@string/vbang"/>
+        <tab
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@mipmap/ic_bottom_mvlist_unselect"
+            id="@+id/tab_yuedan"
+            title="@string/yuedan"/>
+    </tabs>
+</PreferenceScreen>

@@ -7,7 +7,6 @@ import android.widget.ImageView;
 
 import com.itheima.mymediaplayer.MainActivity;
 import com.itheima.mymediaplayer.R;
-import com.itheima.mymediaplayer.ui.BaseActivity;
 
 import butterknife.BindView;
 

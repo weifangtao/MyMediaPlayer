@@ -1,4 +1,4 @@
-package com.itheima.mymediaplayer.ui;
+package com.itheima.mymediaplayer.ui.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

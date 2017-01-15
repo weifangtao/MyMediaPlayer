@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MyMediaPlayer</string>
     <string name="settings">设置</string>
+    <string name="home">首页</string>
+    <string name="mv">MV</string>
+    <string name="vbang">V榜</string>
+    <string name="yuedan">悦单</string>
 </resources>
