@@ -16,7 +16,7 @@ import butterknife.ButterKnife;
  * 创建时间:  2017/1/15 19:06
  * 更新者  :  $Author$
  * 更新时间:  $Date$
- * 描    述:  ${TODO}
+ * 描    述:  Fragment的基类,用于初始化数据 布局等
  */
 
 public abstract class BaseFragment extends Fragment {

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyMediaPlayer</string>
+    <string name="settings">设置</string>
 </resources>
